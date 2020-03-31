@@ -28,144 +28,89 @@
   ],
   "matieres" :  [	
             {	
-                id : 1,	
-                nom : 'Réseaux'	
+                "id" : 1,	
+                "nom" : "Réseaux"	
             },	
             {	
-                id : 2,	
-                nom : 'GL2'	
+                "id" : 2,	
+                "nom" : "GL2"	
             },	
             {	
-                id : 3,	
-                nom : 'Embarqué'	
+                "id" : 3,	
+                "nom" : "Embarqué"	
             },	
             {	
-                id : 4,	
-                nom : 'Spec'	
+                "id" : 4,	
+                "nom" : "Spec"	
             },	
             {	
-                id : 5,	
-                nom : 'SGBD'	
+                "id" : 5,	
+                "nom" : "SGBD"	
             },	
             {	
-                id : 6,	
-                nom : 'Management'	
+                "id" : 6,	
+                "nom" : "Management"	
             },	
             {	
-                id : 7,	
-                nom : 'Recherche Opérationnelle'	
+                "id" : 7,	
+                "nom" : "Recherche Opérationnelle"	
             }	
         ],
   "classes": [	
             {	
-                id: 1,	
-                nom: 'II2A',	
-                etudiants: [	
+                "id": 1,	
+                "nom": "II2A",	
+                "etudiants": [	
                     {	
-                        nom : 'Hammami',	
-                        prenom : 'Lina',	
-                        img : 'https://i.pravatar.cc/300'	
+                        "nom" : "Hammami ",	
+                        "prenom" : "Lina",	
+                        "img" : "https://i.pravatar.cc/300"	
                     },	
                     {	
-                        nom : 'BenSoussia',	
-                        prenom : 'Olfa',	
-                        img : 'https://i.pravatar.cc/300'	
+                        "nom" : "BenSoussia",	
+                        "prenom" : "Olfa",	
+                        "img" : "https://i.pravatar.cc/300"	
                     },	
                     {	
-                        nom : 'Bellaaj',	
-                        prenom : 'Omayma',	
-                        img : 'https://i.pravatar.cc/300'	
+                        "nom" : "Bellaaj",	
+                        "prenom" : "Omayma",	
+                        "img" : "https://i.pravatar.cc/300"	
                     }	
                 ]	
             },	
             {	
-                id: 2,	
-                nom: 'II2B',	
-                etudiants: [	
+                "id": 2,	
+                "nom": "II2B",	
+                "etudiants": [	
                     {	
-                        nom : 'MiaouOne',	
-                        prenom : 'Missa',	
-                        img : 'http://lorempixel.com/300/300'	
-                    },	
-                    {	
-                        nom : 'MiaouTwo',	
-                        prenom : 'Chakapantha',	
-                        img : 'http://lorempixel.com/200/200'	
-                    },	
-                    {	
-                        nom : 'MiaouThree',	
-                        prenom : 'Mimi',	
-                        img : 'https://i.pravatar.cc/300'	
-                    },	
-                    {	
-                        nom : 'MiaouThree',	
-                        prenom : 'Tama',	
-                        img : 'http://lorempixel.com/200/200'	
-                    },	
-                    {	
-                        nom : 'MiaouThree',	
-                        prenom : 'Kagimaru',	
-                        img : 'http://lorempixel.com/300/300'	
-                    },	
-                    {	
-                        nom : 'MiaouFour',	
-                        prenom : 'Kagimaru',	
-                        img : 'http://lorempixel.com/300/300'	
-                    },	
-                    {	
-                        nom : 'MiaouFour',	
-                        prenom : 'Kagimaru',	
-                        img : 'http://lorempixel.com/300/300'	
-                    },	
-                    {	
-                        nom : 'MiaouFour',	
-                        prenom : 'Kagimaru',	
-                        img : 'http://lorempixel.com/300/300'	
-                    },	
-                    {	
-                        nom : 'MiaouFour',	
-                        prenom : 'Kagimaru',	
-                        img : 'http://lorempixel.com/300/300'	
-                    },	
-                    {	
-                        nom : 'MiaouFour',	
-                        prenom : 'Kagimaru',	
-                        img : 'http://lorempixel.com/300/300'	
-                    },	
-                    {	
-                        nom : 'MiaouFour',	
-                        prenom : 'Kagimaru',	
-                        img : 'http://lorempixel.com/300/300'	
-                    },	
-                    {	
-                        nom : 'MiaouFour',	
-                        prenom : 'Kagimaru',	
-                        img : 'http://lorempixel.com/300/300'	
-                    }	
+                        "nom" : "MiaouOne",	
+                        "prenom" : "Missa",	
+                        "img" : "http://lorempixel.com/300/300"
+                    },
                 ]	
             }	
         ],
   "seances": [	
             {	
-                id : 1,	
-                jourId : 6,	
-                horaireId: 6,	
-                matiereId: 3,	
-                classeId : 1	
+                "id" : 1,	
+                "jourId" : 6,	
+                "horaireId": 6,	
+                "matiereId": 3,	
+                "classeId" : 1	
             },	
             {	
-                id : 1,	
-                jourId : 6,	
-                horaireId: 2,	
-                matiereId: 5,	
-                classeId : 2	
+                "id" : 1,	
+                "jourId" : 6,	
+                "horaireId": 2,	
+                "matiereId": 5,	
+                "classeId" : 2	
             },	
             {	
-                id : 2,	
-                jourId : 1,	
-                horaireId: 6,	
-                matiereId: 3,	
-                classeId : 2	
+                "id" : 2,	
+                "jourId" : 1,	
+                "horaireId": 6,	
+                "matiereId": 3,	
+                "classeId" : 2	
             }	
         ]
 }
