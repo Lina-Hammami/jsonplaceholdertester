@@ -126,7 +126,7 @@
             {	
                 "id" : 1,	
                 "jourId" : 6,	
-                "horaireId": 6,	
+                "horaireId": 5,	
                 "matiereId": 3,	
                 "classeId" : 1	
             },	
@@ -140,7 +140,7 @@
             {	
                 "id" : 2,	
                 "jourId" : 0,	
-                "horaireId": 6,	
+                "horaireId": 5,	
                 "matiereId": 3,	
                 "classeId" : 1	
             }	
