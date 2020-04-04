@@ -22,8 +22,8 @@
     },
     {
       "id": "5",
-      "debut": "18:30",
-      "fin":"19:00"
+      "debut": "00:00",
+      "fin":"23:59"
     }
   ],
   "matieres" :  [	
@@ -139,7 +139,7 @@
             },	
             {	
                 "id" : 2,	
-                "jourId" : 4,	
+                "jourId" : 0,	
                 "horaireId": 6,	
                 "matiereId": 3,	
                 "classeId" : 1	
