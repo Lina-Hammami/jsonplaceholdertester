@@ -131,14 +131,14 @@
                 "classeId" : 1	
             },	
             {	
-                "id" : 1,	
+                "id" : 2,	
                 "jourId" : 6,	
                 "horaireId": 2,	
                 "matiereId": 5,	
                 "classeId" : 2	
             },	
             {	
-                "id" : 2,	
+                "id" : 3,	
                 "jourId" : 0,	
                 "horaireId": 5,	
                 "matiereId": 3,	
