@@ -22,7 +22,7 @@
     },
     {
       "id": "5",
-      "debut": "08:00",
+      "debut": "01:00",
       "fin":"23:59"
     }
   ],
@@ -142,6 +142,13 @@
                 "jourId" : 0,	
                 "horaireId": 5,	
                 "matiereId": 3,	
+                "classeId" : 1	
+            }	,	
+            {	
+                "id" : 4,	
+                "jourId" : 3,	
+                "horaireId": 5,	
+                "matiereId": 4,	
                 "classeId" : 1	
             }	
         ]
