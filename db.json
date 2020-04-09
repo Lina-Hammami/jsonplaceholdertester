@@ -150,6 +150,27 @@
                 "horaireId": 5,	
                 "matiereId": 4,	
                 "classeId" : 1	
+            }	,	
+            {	
+                "id" : 5,	
+                "jourId" : 4,	
+                "horaireId": 5,	
+                "matiereId": 4,	
+                "classeId" : 1	
+            }	,	
+            {	
+                "id" : 4,	
+                "jourId" : 3,	
+                "horaireId": 5,	
+                "matiereId": 4,	
+                "classeId" : 1	
+            }	,	
+            {	
+                "id" : 6,	
+                "jourId" : 5,	
+                "horaireId": 5,	
+                "matiereId": 2,	
+                "classeId" : 1	
             }	
         ]
 }
