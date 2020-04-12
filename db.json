@@ -1,4 +1,20 @@
 {
+  "professeurs":[
+    {
+      "id": "1",
+      "nom": "Shimomura",
+      "prenom": "Yoshihiro",
+      "email": "yoshihiro.shimamoura@ensi-uma.tn",
+      "grade": "Chef du dep IA"
+    },
+    {
+      "id": "2",
+      "nom": "Muraoka",
+      "prenom": "Kurou",
+      "email": "muraoka.Kurou@ensi-uma.tn",
+      "grade": "Chef du dep Reseaux"
+    }
+  ],
   "horaires":[
     {
       "id": "1",
