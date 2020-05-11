@@ -194,6 +194,13 @@
                 "horaireId": 5,	
                 "matiereId": 2,	
                 "classeId" : 2	
+            }	,	
+            {	
+                "id" : 1,	
+                "jourId" : 1,	
+                "horaireId": 5,	
+                "matiereId": 2,	
+                "classeId" : 2	
             }	
         ]
 }
